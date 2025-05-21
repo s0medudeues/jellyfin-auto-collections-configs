@@ -1,0 +1,85 @@
+{
+  "TitleMatchPairs": [
+    {
+      "TitleMatch": "Marvel",
+      "CollectionName": "Marvel",
+      "CaseSensitive": false,
+      "MatchType": 2,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Kingsman",
+      "CollectionName": "Kingsman",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Barbie",
+      "CollectionName": "Barbie",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Harry Potter",
+      "CollectionName": "Harry Potter",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Tribute von Panem",
+      "CollectionName": "Tribute von Panem",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Transformers",
+      "CollectionName": "Transformers",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Biss",
+      "CollectionName": "Twilight",
+      "CaseSensitive": false,
+      "MatchType": 0,
+      "MediaType": 0
+    }
+  ],
+  "ExpressionCollections": [
+    {
+      "CollectionName": "Spiderman",
+      "Expression": "TITLE \u0022Spider\u0022 AND TITLE \u0022amazing\u0022",
+      "CaseSensitive": false,
+      "ParsedExpression": {},
+      "ParseErrors": []
+    },
+    {
+      "CollectionName": "Avengers",
+      "Expression": "STUDIO \u0022Marvel\u0022 AND TITLE \u0022Avengers\u0022",
+      "CaseSensitive": false,
+      "ParsedExpression": {},
+      "ParseErrors": []
+    },
+    {
+      "CollectionName": "Back to the Future",
+      "Expression": "TITLE \u0022Back to the Future\u0022 OR TITLE \u0022Zur\u00FCck in die Zukunft\u0022",
+      "CaseSensitive": false,
+      "ParsedExpression": {},
+      "ParseErrors": []
+    },
+    {
+      "CollectionName": "Spider-Man",
+      "Expression": "TITLE \u0022Spider-Man\u0022 AND ACTOR \u0022Tobey Maguire\u0022",
+      "CaseSensitive": false,
+      "ParsedExpression": {},
+      "ParseErrors": []
+    }
+  ],
+  "TagTitlePairs": [],
+  "Tags": []
+}
